@@ -1,0 +1,9 @@
+.git/*
+.vscode/*
+ckpt/*
+logs/*
+MNIST_data_bak/*
+scikit_learn_data/*
+checkpoint
+CNN/tutorials/*
+*.ckpt.*
